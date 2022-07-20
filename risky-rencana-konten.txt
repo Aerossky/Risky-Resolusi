@@ -1,3 +1,5 @@
 RENCANA KONTEN
 -Valorant
 -Teknologi
+ * keyboard
+ * mouse
