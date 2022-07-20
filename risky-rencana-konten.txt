@@ -1,8 +1,10 @@
 RENCANA KONTEN
 -Valorant
+
+* yoru montage
 * no scope 360 
 * wantep pakai pisau
 -Teknologi
  * keyboard
  * mouse
- * mousepad
+ * headset
