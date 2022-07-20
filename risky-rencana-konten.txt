@@ -1,6 +1,8 @@
 RENCANA KONTEN
 -Valorant
+* jett montage
+* yoru montage
 -Teknologi
  * keyboard
  * mouse
- * mousepad
+ * headset
