@@ -3,3 +3,4 @@ Risky RESOLUSI
 -mencapai rank tertinggi di valorant:V
 -membuat project sebagai portofolio
 -mendalami bidang backend
+-memdalami konsep OOP
